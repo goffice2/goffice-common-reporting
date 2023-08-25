@@ -1,0 +1,60 @@
+{
+	"AvanzoCompos": [
+		{
+			"DES1": "Parte disponibile",
+			"APPL": "0,00",
+			"GRUPPO": "AvD",
+			"CODICE": "0,00",
+			"DES2": "Parte disponibile"
+		},
+		{
+			"DES1": "Vincoli derivanti da trasferimenti",
+			"APPL": "0,00",
+			"GRUPPO": "Vin",
+			"CODICE": "2,00",
+			"DES2": "Vincolato da trasferimenti"
+		},
+		{
+			"DES1": "Finanziamento investimenti",
+			"APPL": "0,00",
+			"GRUPPO": "Inv",
+			"CODICE": "6,00",
+			"DES2": "Destinato agli investimenti"
+		},
+		{
+			"DES1": "Fondo contezioso",
+			"APPL": "0,00",
+			"GRUPPO": "Acc",
+			"CODICE": "9,00",
+			"DES2": "Fondo contenzioso"
+		},
+		{
+			"DES1": "Agricoltura - Landwirtschaft",
+			"APPL": "0,00",
+			"GRUPPO": "Acc",
+			"CODICE": "11,00",
+			"DES2": "altri accantonamenti"
+		},
+		{
+			"DES1": "Altri accantonamenti",
+			"APPL": "0,00",
+			"GRUPPO": "Acc",
+			"CODICE": "11,00",
+			"DES2": "altri accantonamenti"
+		},
+		{
+			"DES1": "Fondo crediti dubbia esigibilita",
+			"APPL": "0,00",
+			"GRUPPO": "Acc",
+			"CODICE": "12,00",
+			"DES2": "Fondo crediti dubbia esigibilità"
+		},
+		{
+			"DES1": "parte disponibile",
+			"APPL": "1.860.522,65",
+			"GRUPPO": "disp",
+			"CODICE": "99,00",
+			"DES2": "verfügbarer Teil"
+		}
+	]
+}

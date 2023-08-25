@@ -1,0 +1,180 @@
+{
+	"Equilibrio2Plur": [
+		{
+			"PREV2": "0,00",
+			"DES": "P) Utilizzo avanzo di amministrazione per spese di investimento",
+			"PREV1": "0,00",
+			"COD": "8.160,00",
+			"PREV3": "0,00",
+			"DES2": "P) Verwendung des Verwaltungsüberschusses für Investitionsausgaben"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "Q) Fondo pluriennale vincolato per spese in conto capitale (di entrata)",
+			"PREV1": "23.182,89",
+			"COD": "8.170,00",
+			"PREV3": "0,00",
+			"DES2": "Q) Zweckgebundener Mehrjahresfonds für Investitionsausgaben, eingetragen unter Einnahmen"
+		},
+		{
+			"PREV2": "619.248,21",
+			"DES": "R) Entrate Titoli 4.00-5.00-6.00",
+			"PREV1": "1.252.748,23",
+			"COD": "8.180,00",
+			"PREV3": "486.019,32",
+			"DES2": "R) Einnahmen Titel 4.00-5.00-6.00"
+		},
+		{
+			"PREV2": "258.363,61",
+			"DES": "C) Entrate Titolo 4.02.06 - Contributi agli investimenti direttamente destinati al rimborso dei prestiti da amministrazioni pubbliche",
+			"PREV1": "258.363,61",
+			"COD": "8.190,00",
+			"PREV3": "125.134,72",
+			"DES2": "C) Einnahmen Titel 4.02.06 - Investitionsbeiträge für die Rückzahlung von Anleihen bei öffentlichen Verwaltungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "I) Entrate di parte capitale destinate a spese correnti in base a specifiche disposizioni di legge",
+			"PREV1": "0,00",
+			"COD": "8.200,00",
+			"PREV3": "0,00",
+			"DES2": "I) Investitionseinnahmen für laufende Ausgaben auf der Grundlage spezifischer gesetzlicher Vorgaben oder Rechnungslegungsgrundsätze"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "S1) Entrate Titolo 5.02 per Riscossioni di crediti a breve termine",
+			"PREV1": "0,00",
+			"COD": "8.211,00",
+			"PREV3": "0,00",
+			"DES2": "S1) Einnahmen Titel 5.02 aufgrund der Einhebung kurzfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "S2) Entrate Titolo 5.03 per Riscossioni di crediti a medio-lungo termine",
+			"PREV1": "0,00",
+			"COD": "8.215,00",
+			"PREV3": "0,00",
+			"DES2": "S2) Einnahmen Titel 5.03 aufgrund der Einhebung mittel-/langfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "T) Entrate Titolo 5.04 relative a Altre entrate per riduzioni di attività finanziaria",
+			"PREV1": "0,00",
+			"COD": "8.220,00",
+			"PREV3": "0,00",
+			"DES2": "T) Einnahmen Titel 5.04 bezüglich sonstiger Einnahmen aus dem Abbau von Finanzanlagen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "L) Entrate di parte corrente destinate a spese di investimento in base a specifiche disposizioni di legge",
+			"PREV1": "0,00",
+			"COD": "8.230,00",
+			"PREV3": "0,00",
+			"DES2": "L) Laufende Einnahmen für Investitionsausgaben auf der Grundlage spezifischer gesetzlicher Vorgaben oder Rechnungslegungsgrundsätze"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "M) Entrate da accensione di prestiti destinate a estinzione anticipata dei prestiti",
+			"PREV1": "0,00",
+			"COD": "8.235,00",
+			"PREV3": "0,00",
+			"DES2": "M) Einnahmen aufgrund der Verbindlichkeiten für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "360.884,60",
+			"DES": "D)Spese Titolo 1.00 -  Spese correnti",
+			"PREV1": "1.023.567,51",
+			"COD": "8.240,00",
+			"PREV3": "360.884,60",
+			"DES2": "D) Ausgaben Fonds 1.00 - Laufende Ausgaben"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "di cui: - fondo pluriennale vincolato",
+			"PREV1": "0,00",
+			"COD": "8.250,00",
+			"PREV3": "0,00",
+			"DES2": "davon: - zweckgebundener Mehrjahresfond"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "V) Spese Titolo 3.01 per Acquisizioni di attività finanziarie",
+			"PREV1": "0,00",
+			"COD": "8.260,00",
+			"PREV3": "0,00",
+			"DES2": "V) Ausgaben Fonds 3.01 für Akquisitionen von Finanzanlagen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "E) Spese Titolo 2.04 -  Trasferimenti in conto capitale",
+			"PREV1": "0,00",
+			"COD": "8.270,00",
+			"PREV3": "0,00",
+			"DES2": "E) Ausgaben Fonds 2.04 - Sonstige Investitionszuwendungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "Z1) RISULTATO DI COMPETENZA IN C/CAPITALE (Z1) = P+Q+R-C-I-S1-S2-T+L-M-U-U1-U2-V+E)",
+			"PREV1": "0,00",
+			"COD": "8.280,00",
+			"PREV3": "0,00",
+			"DES2": "Z1) ERGEBNIS DER KOMPETENZ IM KAPITALTEIL (Z1) = P+Q+R-C-I-S1-S2-T+L-M-U-U1-U2-V+E)"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "S1) Entrate Titolo 5.02 per Riscossioni di crediti a breve termine",
+			"PREV1": "0,00",
+			"COD": "8.291,00",
+			"PREV3": "0,00",
+			"DES2": "S1) Einnahmen Titel 5.02 aufgrund der Einhebung kurzfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "S2) Entrate Titolo 5.03 per Riscossioni di crediti a medio-lungo termine",
+			"PREV1": "0,00",
+			"COD": "8.295,00",
+			"PREV3": "0,00",
+			"DES2": "S2) Einnahmen Titel 5.03 aufgrund der Einhebung mittel-/langfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "T) Entrate Titolo 5.04 relative a Altre entrate per riduzioni di attività finanziaria",
+			"PREV1": "0,00",
+			"COD": "8.300,00",
+			"PREV3": "0,00",
+			"DES2": "T) Einnahmen Titel 5.04 bezüglich sonstiger Einnahmen aus dem Abbau von Finanzanlagen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "X1) Spese Titolo 3.02 per Concessioni di crediti di breve termine",
+			"PREV1": "0,00",
+			"COD": "8.311,00",
+			"PREV3": "0,00",
+			"DES2": "X1) Ausgaben Fonds 3.02 für die Gewährung kurzfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "X2) Spese Titolo 3.03 per Concessioni di crediti di medio-lungo termine",
+			"PREV1": "0,00",
+			"COD": "8.315,00",
+			"PREV3": "0,00",
+			"DES2": "X2) Ausgaben Fonds 3.03 für die Gewährung mittel-/langfristiger Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "Y) Spese Titolo 3.04 per Altre spese per acquisizioni di attività finanziarie",
+			"PREV1": "0,00",
+			"COD": "8.320,00",
+			"PREV3": "0,00",
+			"DES2": "Y) Ausgaben Fonds 3.04 für sonstige Ausgaben zur Erhöhung der Finanzanlagen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "W1) RISULTATO DI COMPETENZA (W/1 = O1+Z1+S1+S2+T-X1-X2-Y)",
+			"PREV1": "0,00",
+			"COD": "8.330,00",
+			"PREV3": "0,00",
+			"DES2": "W1) ERGEBNIS DER KOMPETENZ (W/1 = O1+Z1+S1+S2+T-X1-X2-Y)"
+		}
+	]
+}

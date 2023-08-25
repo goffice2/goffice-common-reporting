@@ -1,0 +1,147 @@
+{
+	"E_AV": [
+		{
+			"APP": "A",
+			"DESTIT": "FPV Titolo 1",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "250,00",
+			"PREV": "0,00",
+			"CODTIT": "1,00",
+			"DESTIT_1": "ZMJF Titel 1",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "A",
+			"DESTIT": "FPV Titolo 2",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "700.409,91",
+			"PREV": "23.182,89",
+			"CODTIT": "2,00",
+			"DESTIT_1": "ZMJF Titel 2",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "A",
+			"DESTIT": "FPV Titolo 3",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "0,00",
+			"PREV": "0,00",
+			"CODTIT": "3,00",
+			"DESTIT_1": "ZMJF Titel 3",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "A",
+			"DESTIT": "Cassa all'inizio dell'esercizio",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "0,00",
+			"PREV": "0,00",
+			"CODTIT": "99,00",
+			"DESTIT_1": "Kassa zu Beginn des Jahres",
+			"CASSA": "2.028.214,75"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Avanzo amministrazione",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "500.160,30",
+			"PREV": "0,00",
+			"CODTIT": "0,00",
+			"DESTIT_1": "Verwaltungsüberschuss",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Entrate correnti di natura tributaria, contributiva e perequativa",
+			"PREV2": "448.000,00",
+			"PREV1": "448.000,00",
+			"STANZCORSO": "428.176,00",
+			"PREV": "443.000,00",
+			"CODTIT": "1,00",
+			"DESTIT_1": "Laufende Einnahmen aus Steuern, Beiträgen und Ausgleichen",
+			"CASSA": "666.182,67"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Trasferimenti correnti",
+			"PREV2": "857.455,84",
+			"PREV1": "857.455,84",
+			"STANZCORSO": "975.973,95",
+			"PREV": "925.479,99",
+			"CODTIT": "2,00",
+			"DESTIT_1": "Laufende Zuweisungen",
+			"CASSA": "1.332.619,08"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Entrate extratributarie",
+			"PREV2": "1.084.037,50",
+			"PREV1": "1.084.037,50",
+			"STANZCORSO": "1.212.572,26",
+			"PREV": "1.107.026,65",
+			"CODTIT": "3,00",
+			"DESTIT_1": "Aussersteuerliche Einnahmen",
+			"CASSA": "1.297.688,40"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Entrate in conto capitale",
+			"PREV2": "486.019,32",
+			"PREV1": "619.248,21",
+			"STANZCORSO": "4.186.204,63",
+			"PREV": "1.252.748,23",
+			"CODTIT": "4,00",
+			"DESTIT_1": "Einnahmen auf Kapitalkonto",
+			"CASSA": "3.416.103,70"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Entrate da riduzione di attività finanziarie",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "0,00",
+			"PREV": "0,00",
+			"CODTIT": "5,00",
+			"DESTIT_1": "Einnahmen aus der Verringerung von Finanzanlagen",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Accensione di prestiti",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "0,00",
+			"PREV": "0,00",
+			"CODTIT": "6,00",
+			"DESTIT_1": "Aufnahme von Schulden",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Anticipazioni da istituto tesoriere/cassiere",
+			"PREV2": "0,00",
+			"PREV1": "0,00",
+			"STANZCORSO": "0,00",
+			"PREV": "0,00",
+			"CODTIT": "7,00",
+			"DESTIT_1": "Vorschüsse vom Schatzamt/Schatzmeister",
+			"CASSA": "0,00"
+		},
+		{
+			"APP": "E",
+			"DESTIT": "Entrate per conto di terzi e partite di giro",
+			"PREV2": "1.590.000,00",
+			"PREV1": "1.590.000,00",
+			"STANZCORSO": "1.590.000,00",
+			"PREV": "1.590.000,00",
+			"CODTIT": "9,00",
+			"DESTIT_1": "Einnahmen für Dienste auf Rechnung Dritter und Durchgangsposten",
+			"CASSA": "1.590.176,24"
+		}
+	]
+}

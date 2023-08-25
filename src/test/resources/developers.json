@@ -1,0 +1,35 @@
+{
+    "developers": [
+        {
+            "firstname": "Domingo",
+            "lastname": "Sacristan",
+            "email": "domingo.sacristan@gvcc.net",
+            "tasks": [
+                {
+                    "desc": "thisdesc1",
+                    "detail": "thisdetail1"
+                },
+                {
+                    "desc": "thisdesc2",
+                    "detail": "thisdetail2"
+                }
+            ]
+        },
+        {
+            "firstname": "Walter",
+            "lastname": "Zöggeler",
+            "email": "walter.zoeggeler@gvcc.net",
+            "tasks": [
+                {
+                    "desc": "thisdesc",
+                    "detail": "thisdetail"
+                }
+            ]
+        },
+        {
+            "firstname": "Simon",
+            "lastname": "Nogler",
+            "email": "simon.nogler@gvcc.net"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+	"AVgest": [
+		{
+			"IMPORTO": "1.689.747,85",
+			"DES": "Risultato di amministrazione",
+			"COD": "0,00",
+			"DES2": "Verwaltungsergebnis"
+		},
+		{
+			"IMPORTO": "",
+			"DES": "di cui:",
+			"COD": "1,00",
+			"DES2": "davon:"
+		},
+		{
+			"IMPORTO": "131.389,65",
+			"DES": "Finanziamento investimenti",
+			"COD": "102,00",
+			"DES2": ""
+		},
+		{
+			"IMPORTO": "53.852,10",
+			"DES": "Vincoli derivanti da trasferimenti",
+			"COD": "104,00",
+			"DES2": "Bindungen aus Zuweisungen"
+		},
+		{
+			"IMPORTO": "2.000,00",
+			"DES": "Fondo contezioso",
+			"COD": "110,00",
+			"DES2": ""
+		},
+		{
+			"IMPORTO": "11.000,00",
+			"DES": "Fondo crediti dubbia esigibilita",
+			"COD": "112,00",
+			"DES2": "Fondo crediti dubbia esigibilita"
+		},
+		{
+			"IMPORTO": "240.000,00",
+			"DES": "Altri accantonamenti",
+			"COD": "113,00",
+			"DES2": "Altri accantonamenti"
+		},
+		{
+			"IMPORTO": "360.807,75",
+			"DES": "Parte disponibile",
+			"COD": "114,00",
+			"DES2": "verfügbarer Anteil"
+		},
+		{
+			"IMPORTO": "887.456,49",
+			"DES": "Agricoltura - Landwirtschaft",
+			"COD": "200,00",
+			"DES2": ""
+		}
+	]
+}

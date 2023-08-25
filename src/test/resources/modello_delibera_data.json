@@ -1,0 +1,69 @@
+{
+	"GenericData": {
+		"be_nr": "100",
+		"be_datum": "24.10.2013",
+		"be_zeit": "16:30",
+		"be_unterschrift1": "Xxx Friedrich",
+		"be_unterschrift2": "Christine Xxx",
+		"be_funterschrift2d": "der Sekretär",
+		"be_funterschrift2i": "il Segretario",
+		"be_unterschrift3": "Xxx Anton",
+		"be_unterschrift4": "Anna Xxx",
+		"be_funterschrift4d": "Referent",
+		"be_funterschrift4i": "Assesore",
+		"be_betreff": "Betreff xxx",
+		"be_oggetto": "Oggetto xxx",
+		"be_abst_anzahl": "3",
+		"be_anz_dafuer": "3",
+		"be_anz_dagegen": "0",
+		"be_anz_enthalten": "0",
+		"be_text_de_gut_fach": "positiv",
+		"be_text_it_gut_fach": "positivo",
+		"be_fach_gut_person": "xxx Walter",
+		"be_dat_gut_fach": "18.01.2023",
+		"be_fach_gut_hash": "C90915043072F51BA66C3DF1F449C635C85DE985",
+		"be_text_de_gut_buch": "positiv",
+		"be_text_it_gut_buch": "positivo",
+		"be_buch_gut_person": "xxx Simon",
+		"be_dat_gut_buch": "18/01/2023",
+		"be_buch_gut_hash": "384FCD160AB3B33174EA279AD26052EEE191508A",
+		"be_verdat": "19.01.2023",
+		"be_volldat": "29.01.2023"
+	},
+	"Members": [
+		{
+			"be_kname": "Xxx Friedrich",
+			"be_kfunkt_d": "Bürgermeister",
+			"be_kfunkt_i": "Sindaco",
+			"be_ent_abw": "X",
+			"be_unent_abw": "",
+			"be_fernz_anw": ""
+		},
+		{
+			"be_kname": "xxx Hugo",
+			"be_kfunkt_d": "Referent",
+			"be_kfunkt_i": "Assesore",
+			"be_ent_abw": "X",
+			"be_unent_abw": "",
+			"be_fernz_anw": ""
+		},
+		{
+			"be_kname": "xxx Thomas",
+			"be_kfunkt_d": "Referent",
+			"be_kfunkt_i": "Assesore",
+			"be_ent_abw": "X",
+			"be_unent_abw": "",
+			"be_fernz_anw": ""
+		}
+	],
+	"Verpflichtungsdaten": [
+		{
+			"be_sf_verpfl_nr": "12",
+			"be_sf_eser": "2023",
+			"be_sf_ueb": "3",
+			"be_sf_kap": "25",
+			"be_sf_kscc": "500",
+			"be_sf_betrag": "1.000"
+		}
+	]
+}

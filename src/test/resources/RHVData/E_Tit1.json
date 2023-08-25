@@ -1,0 +1,59 @@
+{
+	"E_Tit1": [
+		{
+			"ORD": "1",
+			"PREV2": "",
+			"CODCAT": "1",
+			"PREV1": "",
+			"PREV": "",
+			"DESCAT": "Imposte, tasse e proventi assimilati",
+			"DESCAT_1": "Steuern, Abgaben und gleichgesetzte Einnahmen",
+			"STANZ_1": "",
+			"CODTIP": "101,00"
+		},
+		{
+			"ORD": "1",
+			"PREV2": "360.000,00",
+			"CODCAT": "6",
+			"PREV1": "360.000,00",
+			"PREV": "355.000,00",
+			"DESCAT": "Imposta municipale propria",
+			"DESCAT_1": "Gemeindeimmobiliensteuer (IMU)",
+			"STANZ_1": "350.000,00",
+			"CODTIP": "101,00"
+		},
+		{
+			"ORD": "1",
+			"PREV2": "88.000,00",
+			"CODCAT": "41",
+			"PREV1": "88.000,00",
+			"PREV": "88.000,00",
+			"DESCAT": "Imposta di soggiorno",
+			"DESCAT_1": "Aufenthaltssteuer",
+			"STANZ_1": "78.176,00",
+			"CODTIP": "101,00"
+		},
+		{
+			"ORD": "1",
+			"PREV2": "0,00",
+			"CODCAT": "66",
+			"PREV1": "0,00",
+			"PREV": "0,00",
+			"DESCAT": "di cui: avvisi di accertamento",
+			"DESCAT_1": "Davon: Steuernachzahlungen",
+			"STANZ_1": "0,00",
+			"CODTIP": "101,00"
+		},
+		{
+			"ORD": "1",
+			"PREV2": "0,00",
+			"CODCAT": "99",
+			"PREV1": "0,00",
+			"PREV": "0,00",
+			"DESCAT": "Altre imposte, tasse e proventi  n.a.c.",
+			"DESCAT_1": "Sonstige Steuern, Abgaben und gleichgesetzte n.a.b. Erträge",
+			"STANZ_1": "0,00",
+			"CODTIP": "101,00"
+		}
+	]
+}

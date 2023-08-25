@@ -1,0 +1,156 @@
+{
+	"Equilibrio1Plur": [
+		{
+			"PREV2": "0,00",
+			"DES": "A) Fondo pluriennale vincolato per spese correnti (di entrata)",
+			"PREV1": "0,00",
+			"COD": "8.020,00",
+			"PREV3": "0,00",
+			"DES2": "A) Zweckgebundener Mehrjahresfonds für laufende Ausgaben, eingetragen unter Einnahmen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "AA ) Recupero disavanzo di amministrazione esercizio precedente",
+			"PREV1": "0,00",
+			"COD": "8.030,00",
+			"PREV3": "0,00",
+			"DES2": "AA) Ausgleich des Verwaltungsdefizits aus dem Vorjahr"
+		},
+		{
+			"PREV2": "2.389.493,34",
+			"DES": "B) Entrate Titoli 1.00 - 2.00 - 3.00",
+			"PREV1": "2.475.506,64",
+			"COD": "8.040,00",
+			"PREV3": "2.389.493,34",
+			"DES2": "B) Einnahmen Titel 1.00 - 2.00 - 3.00"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "di cui per estinzione anticipata di prestiti",
+			"PREV1": "0,00",
+			"COD": "8.041,00",
+			"PREV3": "0,00",
+			"DES2": "davon für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "258.363,61",
+			"DES": "C) Entrate Titolo 4.02.06 - Contributi agli investimenti direttamente destinati al rimborso dei prestiti da amministrazioni pubbliche",
+			"PREV1": "258.363,61",
+			"COD": "8.050,00",
+			"PREV3": "125.134,72",
+			"DES2": "C) Einnahmen Titel 4.02.06 - Investitionsbeiträge für die Rückzahlung von Anleihen bei öffentlichen Verwaltungen"
+		},
+		{
+			"PREV2": "2.329.748,72",
+			"DES": "D)Spese Titolo 1.00 -  Spese correnti",
+			"PREV1": "2.420.383,95",
+			"COD": "8.060,00",
+			"PREV3": "2.321.810,91",
+			"DES2": "D) Ausgaben Fonds 1.00 - Laufende Ausgaben"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "di cui: - fondo pluriennale vincolato",
+			"PREV1": "0,00",
+			"COD": "8.071,00",
+			"PREV3": "0,00",
+			"DES2": "davon: - zweckgebundener Mehrjahresfond"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "        - fondo crediti di dubbia esegibilità",
+			"PREV1": "0,00",
+			"COD": "8.072,00",
+			"PREV3": "0,00",
+			"DES2": "       - Fond für zweifelhafte Forderungen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "E) Spese Titolo 2.04 -  Trasferimenti in conto capitale",
+			"PREV1": "0,00",
+			"COD": "8.080,00",
+			"PREV3": "0,00",
+			"DES2": "E) Ausgaben Fonds 2.04 - Sonstige Investitionszuwendungen"
+		},
+		{
+			"PREV2": "318.108,23",
+			"DES": "F) Spese Titolo 4.00 -  Quote di capitale amm.to dei mutui e prestiti obbligazionari",
+			"PREV1": "307.486,30",
+			"COD": "8.090,00",
+			"PREV3": "192.817,15",
+			"DES2": "F) Ausgaben Fonds 4.00 - Kapitalanteile Amortisation von Darlehen und Anleihen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "di cui per estinzione anticipata di prestiti",
+			"PREV1": "0,00",
+			"COD": "8.091,00",
+			"PREV3": "0,00",
+			"DES2": "davon für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "G) Somma finale (G=A-AA+B+C-D-D1-E-E1-F1-F2)",
+			"PREV1": "0,00",
+			"COD": "8.100,00",
+			"PREV3": "0,00",
+			"DES2": "G) Gesamtsumme (G=A-AA+B+C-D-D1-E-E1-F1-F2)"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "H) Utilizzo avanzo di amministrazione per spese correnti e per rimborso prestiti",
+			"PREV1": "0,00",
+			"COD": "8.110,00",
+			"PREV3": "0,00",
+			"DES2": "H) Verwendung des Verwaltungsüberschusses für laufende Ausgaben und Rückzahlung von Darlehen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "di cui per estinzione anticipata di prestiti",
+			"PREV1": "0,00",
+			"COD": "8.111,00",
+			"PREV3": "0,00",
+			"DES2": "davon für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "I) Entrate di parte capitale destinate a spese correnti in base a specifiche disposizioni di legge",
+			"PREV1": "0,00",
+			"COD": "8.120,00",
+			"PREV3": "0,00",
+			"DES2": "I) Investitionseinnahmen für laufende Ausgaben auf der Grundlage spezifischer gesetzlicher Vorgaben oder Rechnungslegungsgrundsätze"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": " di cui per estinzione anticipata di prestiti",
+			"PREV1": "0,00",
+			"COD": "8.121,00",
+			"PREV3": "0,00",
+			"DES2": "davon für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "L) Entrate di parte corrente destinate a spese di investimento in base a specifiche disposizioni di legge",
+			"PREV1": "0,00",
+			"COD": "8.130,00",
+			"PREV3": "0,00",
+			"DES2": "L) Laufende Einnahmen für Investitionsausgaben auf der Grundlage spezifischer gesetzlicher"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "M) Entrate da accensione di prestiti destinate a estinzione anticipata dei prestiti",
+			"PREV1": "0,00",
+			"COD": "8.140,00",
+			"PREV3": "0,00",
+			"DES2": "M) Einnahmen aufgrund der Verbindlichkeiten für die vorzeitige Tilgung von Anleihen"
+		},
+		{
+			"PREV2": "0,00",
+			"DES": "O1) RISULTATO DI COMPETENZA DI PARTE CORRENTE  ( O1=G+H+I-L+M)",
+			"PREV1": "0,00",
+			"COD": "8.150,00",
+			"PREV3": "0,00",
+			"DES2": "O1) KOMPETENZERGEBNIS DES LAUFENDEN TEILS (O1=G+H+I-L+M)"
+		}
+	]
+}

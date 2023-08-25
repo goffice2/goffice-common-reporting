@@ -1,0 +1,44 @@
+{
+	"DarlehenRestschuld": [
+		{
+			"ANNO": "2.021,00",
+			"RESIDUO": "2.018.402,94",
+			"QUOTACAPITAL": "287.466,72",
+			"VORJAHR": "2.305.869,66",
+			"NUOVI": "0,00",
+			"VORTILG": "0,00"
+		},
+		{
+			"ANNO": "2.022,00",
+			"RESIDUO": "1.715.725,97",
+			"QUOTACAPITAL": "302.676,97",
+			"VORJAHR": "2.018.402,94",
+			"NUOVI": "0,00",
+			"VORTILG": "0,00"
+		},
+		{
+			"ANNO": "2.023,00",
+			"RESIDUO": "1.402.840,63",
+			"QUOTACAPITAL": "312.885,34",
+			"VORJAHR": "1.715.725,97",
+			"NUOVI": "0,00",
+			"VORTILG": "0,00"
+		},
+		{
+			"ANNO": "2.024,00",
+			"RESIDUO": "1.079.333,37",
+			"QUOTACAPITAL": "323.507,26",
+			"VORJAHR": "1.402.840,63",
+			"NUOVI": "0,00",
+			"VORTILG": "0,00"
+		},
+		{
+			"ANNO": "2.025,00",
+			"RESIDUO": "881.117,19",
+			"QUOTACAPITAL": "198.216,18",
+			"VORJAHR": "1.079.333,37",
+			"NUOVI": "0,00",
+			"VORTILG": "0,00"
+		}
+	]
+}

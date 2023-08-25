@@ -1,2 +1,3 @@
 # goffice-common-reporting
-goffice-common-reporting
+
+reportistica dinamica

@@ -1,0 +1,122 @@
+{
+	"AV_appl": [
+		{
+			"AV": "0,00",
+			"GRUPPO": "Acc",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Accantonamento residui perenti (regioni)",
+			"DESCRIZIONE_1": "Accantonamento residui perenti (regioni)"
+		},
+		{
+			"AV": "11.000,00",
+			"GRUPPO": "Acc",
+			"NON_APPL": "11.000,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Fondo crediti dubbia esigibilità",
+			"DESCRIZIONE_1": "Fonds für zweifelhafte Forderungen"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Acc",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Fondo perdite società partecipate",
+			"DESCRIZIONE_1": "Fonds für die Abdeckung der Verluste von beteiligten Gesellschaften"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Acc",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Fondo Ant. liquidita dl35/2013",
+			"DESCRIZIONE_1": "Fonds für Vorschüsse auf Liquidität"
+		},
+		{
+			"AV": "1.127.456,49",
+			"GRUPPO": "Acc",
+			"NON_APPL": "1.119.493,59",
+			"2023-2": "2.021,00",
+			"AV_APPL": "7.962,90",
+			"DESCRIZIONE": "altri accantonamenti",
+			"DESCRIZIONE_1": "Andere Rückstellungen"
+		},
+		{
+			"AV": "2.000,00",
+			"GRUPPO": "Acc",
+			"NON_APPL": "2.000,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Fondo contenzioso",
+			"DESCRIZIONE_1": "Fonds für Streitverfahren"
+		},
+		{
+			"AV": "360.807,75",
+			"GRUPPO": "AvD",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "360.807,75",
+			"DESCRIZIONE": "Parte disponibile",
+			"DESCRIZIONE_1": "Verfügbarer Anteil"
+		},
+		{
+			"AV": "131.389,65",
+			"GRUPPO": "Inv",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "131.389,65",
+			"DESCRIZIONE": "Destinato agli investimenti",
+			"DESCRIZIONE_1": "Für Investitionen bestimmter Anteil"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Vin",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Altri vincoli",
+			"DESCRIZIONE_1": "Sonstige Bindungen"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Vin",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Vincolato da legge e dai principi contabili",
+			"DESCRIZIONE_1": "Bindungen aus Gesetzen und Haushaltsgrundsätzen"
+		},
+		{
+			"AV": "53.852,10",
+			"GRUPPO": "Vin",
+			"NON_APPL": "53.852,10",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Vincolato da trasferimenti",
+			"DESCRIZIONE_1": "Bindungen aus Zuweisungen"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Vin",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Vincolato dalla contrazione mutui",
+			"DESCRIZIONE_1": "Bindungen aus Darlehensaufnahmen"
+		},
+		{
+			"AV": "0,00",
+			"GRUPPO": "Vin",
+			"NON_APPL": "0,00",
+			"2023-2": "2.021,00",
+			"AV_APPL": "0,00",
+			"DESCRIZIONE": "Vincolato attribuito dall'ente",
+			"DESCRIZIONE_1": "Formell von der Körperschaft auferlegte Bindungen"
+		}
+		
+	]
+}

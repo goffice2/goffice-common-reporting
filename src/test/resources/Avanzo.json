@@ -1,0 +1,124 @@
+{
+    "Avanzo": [
+        {
+            "ORD": "1,00",
+            "DES1": "anfänglicher Verwaltungsergebnis",
+            "COMP": "0,00",
+            "TOT": "671.044,84",
+            "DES2": "Risultato di amministrazione iniziale ",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "2,00",
+            "DES1": "anfänglicher zweckgebundener Mehrjahresfond",
+            "COMP": "0,00",
+            "TOT": "329.940,66",
+            "DES2": "Fondo pluriennale vincolato iniziale",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "3,00",
+            "DES1": "Bereits festgestellte Einnahmen",
+            "COMP": "0,00",
+            "TOT": "8.290.944,36",
+            "DES2": "Entrate già accertate",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "4,00",
+            "DES1": "Bereits verpflichtete Ausgaben",
+            "COMP": "0,00",
+            "TOT": "6.388.722,30",
+            "DES2": "Uscite già impegnate",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "5,00",
+            "DES1": "Bereits durchgeführte Streichung der aktiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Riduzione dei residui attivi",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "6,00",
+            "DES1": "Bereits durchgeführte Erhöhung der aktiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Incremento dei residui attivi",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "7,00",
+            "DES1": "Bereits durchgeführte Streichung der passiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Riduzione dei residui passivi",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "8,00",
+            "DES1": "Verwaltungsergebnis",
+            "COMP": "0,00",
+            "TOT": "2.903.207,56",
+            "DES2": "Risultato di ammnistrazione",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "9,00",
+            "DES1": "Einnahmen, die voraussichtlich festgestellt werden",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Entrate che prevedo di accertare",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "10,00",
+            "DES1": "Ausgaben, die voraussichtlich verpflichtet werden",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Spese che prevedo di impegnare",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "11,00",
+            "DES1": "voraussichtliche Streichung der aktiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Riduzione dei residui attivi presunte",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "12,00",
+            "DES1": "voraussichtliche Erhöhung der aktiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Incremento dei residui attivi presunte",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "13,00",
+            "DES1": "voraussichtliche Streichung der passiven Rückstände",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Riduzione dei residui passivi presunte",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "14,00",
+            "DES1": "voraussichtlicher entgültiger zweckgebundener Mehrjahresfond ",
+            "COMP": "0,00",
+            "TOT": "0,00",
+            "DES2": "Fondo pluriennale vincolato presunto",
+            "RESI": "0,00"
+        },
+        {
+            "ORD": "15,00",
+            "DES1": "voraussichtliches Verwaltungsergebnis",
+            "COMP": "0,00",
+            "TOT": "2.903.207,56",
+            "DES2": "Risultato di amministrazione presunto",
+            "RESI": "0,00"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+/.idea
+*.log
+/logs
+.classpath
+.project
+.settings/
+target/
+src_gen/
+bin/
+LOG_DIR_IS_UNDEFINED/
+/.codetogether.ignore
